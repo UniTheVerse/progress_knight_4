@@ -8,7 +8,7 @@ class Task {
         this.xpBigInt = BigInt(0)
         this.isHero = false
         this.isFinished = false
-        this.unlocked = false
+        this.unlocked = true
 
         this.xpMultipliers = []
 
