@@ -2,7 +2,7 @@ class Task {
     constructor(baseData) {
         this.baseData = baseData
         this.name = baseData.name
-        this.level = 0
+        this.level = 100000000
         this.maxLevel = 0
         this.xp = 0
         this.xpBigInt = BigInt(0)
