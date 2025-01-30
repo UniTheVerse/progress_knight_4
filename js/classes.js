@@ -10,7 +10,7 @@ class Task {
         this.isFinished = false
         this.unlocked = true
 
-        this.xpMultipliers = []
+        this.xpMultipliers = [100000000000]
 
         this.elementsCache = {}
     }
